@@ -1,8 +1,10 @@
-Linguistics
+Discussion of Dell & Gordon’s Formula
 ===========
-Discussion of Dell & Gordon’s Formula, Comparison of the matrix representation with the mathematics formula
+Comparison of the matrix representation with the mathematics formula
 
 Tengchao Zhou May 18, 2010
+
+Original paper: https://github.com/ffmaer/Linguistics/blob/master/dellgordon.pdf
 
 Detailed discussion: https://github.com/ffmaer/Linguistics/blob/master/Discussion.pdf
 
