@@ -1,0 +1,6 @@
+@echo off
+set /a counter=0
+:numbers
+set /a counter=%counter%+1
+if %counter%==9 (goto :eof) else (dot.exe -Tpng dot/dot%counter%.txt -o image/image%counter%.png) 
+goto :numbers
