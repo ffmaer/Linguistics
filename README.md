@@ -4,6 +4,8 @@ Discussion of Dell & Gordon’s Formula, Comparison of the matrix representation
 
 Tengchao Zhou May 18, 2010
 
+Detailed discussion: https://github.com/ffmaer/Linguistics/blob/master/Discussion.pdf
+
 Instructions
 --------------
 1. Install graphviz-2.26.3.msi (downloaded from http://www.graphviz.org/Download_windows.php)
