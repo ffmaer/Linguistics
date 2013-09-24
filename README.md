@@ -2,7 +2,7 @@ Linguistics
 ===========
 Instructions
 --------------
-1. Install graphviz-2.26.3.msi (which can be downloaded from http://www.graphviz.org/Download_windows.php)
+1. Install graphviz-2.26.3.msi (downloaded from http://www.graphviz.org/Download_windows.php)
 
 2. Use MATLAB (my version is MATLAB 2009a) to run model2matrix.m
 
